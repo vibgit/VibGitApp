@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibGitApp", "VibGitApp\VibGitApp.csproj", "{DE214731-D9FF-4D70-BF97-D943DB8B840D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE214731-D9FF-4D70-BF97-D943DB8B840D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE214731-D9FF-4D70-BF97-D943DB8B840D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE214731-D9FF-4D70-BF97-D943DB8B840D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE214731-D9FF-4D70-BF97-D943DB8B840D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FD7455-74AB-4B65-87CB-631CD55ACCEC}
+	EndGlobalSection
+EndGlobal
